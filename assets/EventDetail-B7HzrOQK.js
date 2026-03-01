@@ -587,7 +587,7 @@ const A = { key: 0 },
                               : d("", !0),
                             u(h, {
                               text: "Buy $IPO Now",
-                              link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                              link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
                               "bg-color": "transparent",
                               "text-color": "#000",
                               "border-color": "#000",

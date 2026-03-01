@@ -546,7 +546,7 @@ const ge = "/redwood-logo-red.webp",
                         "arrow-color": "#fff",
                         "bg-arrow": "#FF5B00",
                         onClick: () => {
-                        window.location.href = "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon";
+                        window.location.href = "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108";
                         }
                       })
                     ]),
@@ -1597,7 +1597,7 @@ const ge = "/redwood-logo-red.webp",
                     t("div", Dt, [
                       i(F, {
                         text: "Buy Now",
-                        link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                        link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
                         "bg-color": "#FF5B00",
                       }),
                     ]),
@@ -1863,7 +1863,7 @@ const ge = "/redwood-logo-red.webp",
                   o("div", Qt, [
                     i(F, {
                       text: "Buy Now",
-                      link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                      link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
                       "bg-color": "#FF5B00",
                     }),
                   ])),
@@ -2807,7 +2807,7 @@ const ge = "/redwood-logo-red.webp",
                           i(F, {
                             text: "BUY NOW",
                             "bg-color": "#FF5B00",
-                            link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                            link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
                           }),
                         ])),
                     e[153] ||

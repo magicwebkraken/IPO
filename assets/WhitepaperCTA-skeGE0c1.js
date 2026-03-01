@@ -96,7 +96,7 @@ const n = [
         description:
           "Be among the first to access institutional-grade private market deals.",
         buttonText: "Buy $IPO Now",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -187,7 +187,7 @@ const n = [
         description:
           "Join thousands of investors accessing institutional-grade deals through $IPO.",
         buttonText: "Buy $IPO Now",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -285,7 +285,7 @@ const n = [
         description:
           "Don't wait for the IPO. Access high-growth companies while they're still private.",
         buttonText: "Get Early Access",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -374,7 +374,7 @@ const n = [
         description:
           "Don't miss the early-mover advantage in tokenized private markets.",
         buttonText: "Join the Presale",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -517,7 +517,7 @@ const n = [
         description:
           "Access + Quality + Liquidity + Compliance. All in one platform.",
         buttonText: "Start With $IPO",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -632,7 +632,7 @@ const n = [
         description:
           "The presale is your chance to accumulate $IPO at the lowest price.",
         buttonText: "Buy $IPO Now",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -732,7 +732,7 @@ const n = [
         description:
           "Enterprise-grade security meets accessible private markets.",
         buttonText: "Join the Presale",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -853,7 +853,7 @@ const n = [
         description:
           "Phase 1 participants capture the most value as the platform grows.",
         buttonText: "Join the Presale",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -954,7 +954,7 @@ const n = [
         title: "Be Part of the Ecosystem",
         description: "As the platform grows, so does the value of $IPO.",
         buttonText: "Buy $IPO Now",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -1044,7 +1044,7 @@ const n = [
         title: "The Best of All Worlds",
         description: "One platform with the strengths of every competitor.",
         buttonText: "Get Started",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -1140,7 +1140,7 @@ const n = [
         description:
           "Join a platform created by people who've been on both sides of the deal table.",
         buttonText: "Join the Presale",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
     {
@@ -1202,7 +1202,7 @@ const n = [
       <h2>Your Next Steps</h2>
       <p>Ready to join the investment revolution? Here's how to get started:</p>
       <ol>
-        <li><strong>Buy $IPO:</strong> Participate in the presale at <a href="https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon">buy.ipogenie.ai</a></li>
+        <li><strong>Buy $IPO:</strong> Participate in the presale at <a href="https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108">buy.ipogenie.ai</a></li>
         <li><strong>Join Our Community:</strong> Connect on <a href="https://t.me/IPO_GENIE">Telegram</a> and <a href="https://x.com/IPOGENIE">X (Twitter)</a></li>
         <li><strong>Stay Informed:</strong> Subscribe to our newsletter for deal announcements and updates</li>
         <li><strong>Spread the Word:</strong> Share IPO Genie with others who deserve access to private markets</li>
@@ -1240,7 +1240,7 @@ const n = [
         description:
           "Don't miss your chance to be part of the investment revolution.",
         buttonText: "Buy $IPO Now",
-        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+        buttonLink: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108",
       },
     },
   ],
@@ -1285,7 +1285,7 @@ const n = [
           "Join thousands of investors accessing institutional-grade deals through $IPO.",
       },
       buttonText: { type: String, default: "Buy $IPO Now" },
-      buttonLink: { type: String, default: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon" },
+      buttonLink: { type: String, default: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108" },
     },
     setup(e) {
       return (t, s) => (

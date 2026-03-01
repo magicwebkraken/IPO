@@ -61,7 +61,7 @@ const O = {
                 -1
               )),
             e("div", V, [
-              n(d, { text: "Buy $IPO Now", link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon" }),
+              n(d, { text: "Buy $IPO Now", link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108" }),
               n(d, {
                 text: "Join Community",
                 link: "https://t.me/IPO_GENIE",
