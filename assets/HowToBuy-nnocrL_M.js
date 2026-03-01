@@ -608,18 +608,9 @@ const Y = {
               a($),
               a(_, {
                 title: "What Happens After You Buy",
-                highlight: "After You Buy",
-                content: `<p>Once your $IPO token purchase confirms on-chain, your tokens are allocated to your connected wallet immediately. During the presale phase, tokens are held in a vesting contract that unlocks according to the published schedule, ensuring fair distribution and price stability at launch.</p>
+                content: `<p>Once your $IPO token purchase confirms on-chain, your tokens are allocated to your connected wallet immediately. After buying, tokens are held in a vesting contract that unlocks according to the published schedule, ensuring fair distribution and price stability at launch.</p>
     <p>When the Token Generation Event (TGE) arrives, you can claim your unlocked tokens directly from the dashboard. From there, you have several options: stake them to earn <a href='/behavior/'>behavior-based rewards</a> and unlock platform features, use them to participate in investment opportunities through the Deal Builder Marketplace, or hold them as the ecosystem grows.</p>
     <p>Staking is where most participants see the greatest long-term value. By staking $IPO, you build your Reputation Score, gain access to exclusive deal flow, unlock insurance coverage tiers, and earn yield that compounds with your ecosystem participation. Learn more about the full investment lifecycle in our <a href='/how-it-works/'>how it works</a> guide.</p>`,
-                class: "mb-[-4rem] max-md:mb-[-2rem]",
-              }),
-              a(_, {
-                title: "Why Buy During the Presale",
-                highlight: "Presale",
-                content: `<p>The IPO Genie presale offers the lowest entry price for $IPO tokens before public launch. Each presale stage increases the price, meaning earlier participants lock in better rates. This tiered pricing structure rewards conviction and early commitment to the ecosystem.</p>
-    <p>Beyond price advantage, presale buyers receive bonus allocations and priority access to platform features at launch. Early holders accumulate staking history from day one, which translates to higher Reputation Scores and better reward multipliers when the full platform goes live.</p>
-    <p>There is also a strategic element: building your position during the presale means you are positioned to participate in the first wave of investment opportunities when the <a href='/marketplace/'>Deal Builder Marketplace</a> opens. First movers get access to the most competitive deals before the broader market. Read our detailed breakdown of <a href='/blog/5-reasons-to-join-the-ipo-genie-presale-before-it-sells-out/'>5 reasons to join the presale</a> and review the full <a href='/about/tokenomics/'>tokenomics</a> to understand how early positioning creates compounding advantages.</p>`,
                 class: "mb-16",
               }),
               a(H, { "faq-list": A(Ye) }, null, 8, ["faq-list"]),
