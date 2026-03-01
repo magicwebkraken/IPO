@@ -1,0 +1,16 @@
+.faq-enter-active[data-v-fc3b3d1a],
+.faq-leave-active[data-v-fc3b3d1a] {
+  transition: all 0.3s ease;
+}
+.faq-enter-from[data-v-fc3b3d1a],
+.faq-leave-to[data-v-fc3b3d1a] {
+  opacity: 0;
+  transform: translateY(-8px);
+  max-height: 0;
+}
+.faq-enter-to[data-v-fc3b3d1a],
+.faq-leave-from[data-v-fc3b3d1a] {
+  opacity: 1;
+  transform: translateY(0);
+  max-height: 200px;
+}

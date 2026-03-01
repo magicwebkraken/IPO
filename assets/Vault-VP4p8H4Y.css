@@ -1,0 +1,269 @@
+.vault-hero[data-v-19e2f867] {
+  background: radial-gradient(
+      ellipse 60% 50% at 50% 0%,
+      rgba(255, 91, 0, 0.08) 0%,
+      transparent 70%
+    ),
+    radial-gradient(
+      ellipse 80% 60% at 50% 100%,
+      rgba(255, 91, 0, 0.04) 0%,
+      transparent 60%
+    ),
+    radial-gradient(ellipse 100% 100% at 50% 50%, #111, #0a0a0a);
+}
+.vault-grid[data-v-19e2f867] {
+  background-image: linear-gradient(rgba(255, 91, 0, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 91, 0, 0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+  mask-image: radial-gradient(
+    ellipse 70% 50% at 50% 40%,
+    black 0%,
+    transparent 100%
+  );
+  -webkit-mask-image: radial-gradient(
+    ellipse 70% 50% at 50% 40%,
+    black 0%,
+    transparent 100%
+  );
+}
+.vault-headline-gradient[data-v-19e2f867] {
+  background: linear-gradient(135deg, #fff, #e0d0c0, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.vault-shimmer[data-v-19e2f867] {
+  background: linear-gradient(90deg, #3a3a42 25%, #505058, #3a3a42 75%);
+  background-size: 200% 100%;
+  animation: shimmer-19e2f867 2s ease-in-out infinite;
+}
+@keyframes shimmer-19e2f867 {
+  0% {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+.dashboard-border-glow[data-v-19e2f867] {
+  background: conic-gradient(
+    from 220deg,
+    rgba(255, 91, 0, 0.5),
+    rgba(255, 160, 60, 0.3),
+    rgba(100, 180, 255, 0.4),
+    rgba(80, 140, 220, 0.2),
+    transparent,
+    transparent,
+    rgba(255, 91, 0, 0.3),
+    rgba(255, 130, 50, 0.4),
+    rgba(100, 180, 255, 0.3),
+    transparent,
+    rgba(255, 91, 0, 0.5)
+  );
+}
+.dashboard-arc[data-v-19e2f867] {
+  border-radius: 50%;
+  border: 1px solid transparent;
+}
+.dashboard-arc-1[data-v-19e2f867] {
+  width: 800px;
+  height: 800px;
+  top: -55%;
+  right: -25%;
+  background: conic-gradient(
+    from 200deg,
+    transparent 0%,
+    rgba(255, 91, 0, 0.06) 15%,
+    rgba(100, 180, 255, 0.05) 25%,
+    transparent 40%
+  );
+  mask-image: radial-gradient(
+    ellipse at center,
+    transparent 45%,
+    black 46%,
+    black 50%,
+    transparent 51%
+  );
+  -webkit-mask-image: radial-gradient(
+    ellipse at center,
+    transparent 45%,
+    black 46%,
+    black 50%,
+    transparent 51%
+  );
+}
+.dashboard-arc-2[data-v-19e2f867] {
+  width: 900px;
+  height: 900px;
+  top: -60%;
+  right: -30%;
+  background: conic-gradient(
+    from 210deg,
+    transparent 0%,
+    rgba(255, 140, 50, 0.04) 12%,
+    rgba(80, 160, 240, 0.04) 22%,
+    transparent 35%
+  );
+  mask-image: radial-gradient(
+    ellipse at center,
+    transparent 45%,
+    black 46%,
+    black 49%,
+    transparent 50%
+  );
+  -webkit-mask-image: radial-gradient(
+    ellipse at center,
+    transparent 45%,
+    black 46%,
+    black 49%,
+    transparent 50%
+  );
+}
+.dashboard-arc-3[data-v-19e2f867] {
+  width: 600px;
+  height: 600px;
+  bottom: -30%;
+  left: -15%;
+  background: conic-gradient(
+    from 40deg,
+    transparent 0%,
+    rgba(255, 91, 0, 0.04) 10%,
+    rgba(100, 180, 255, 0.03) 20%,
+    transparent 35%
+  );
+  mask-image: radial-gradient(
+    ellipse at center,
+    transparent 45%,
+    black 46%,
+    black 50%,
+    transparent 51%
+  );
+  -webkit-mask-image: radial-gradient(
+    ellipse at center,
+    transparent 45%,
+    black 46%,
+    black 50%,
+    transparent 51%
+  );
+}
+@keyframes ticker-scroll-19e2f867 {
+  0% {
+    transform: translate(0);
+  }
+  to {
+    transform: translate(-50%);
+  }
+}
+.dashboard-ticker[data-v-19e2f867] {
+  animation: ticker-scroll-19e2f867 30s linear infinite;
+}
+.dashboard-ticker[data-v-19e2f867]:hover {
+  animation-play-state: paused;
+}
+@keyframes dash-fade-up-19e2f867 {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes dash-ring-19e2f867 {
+  0% {
+    stroke-dasharray: 0, 100;
+  }
+  to {
+    stroke-dasharray: var(--ring-score, 92), 100;
+  }
+}
+@keyframes dash-bar-19e2f867 {
+  0% {
+    width: 0%;
+  }
+  to {
+    width: 92%;
+  }
+}
+@keyframes dash-bar-dynamic-19e2f867 {
+  0% {
+    width: 0%;
+  }
+  to {
+    width: var(--bar-width, 92%);
+  }
+}
+.deal-content-enter-active[data-v-19e2f867],
+.deal-content-leave-active[data-v-19e2f867] {
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+.deal-content-enter-from[data-v-19e2f867] {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.deal-content-leave-to[data-v-19e2f867] {
+  opacity: 0;
+  transform: translateY(-4px);
+}
+@keyframes dash-draw-19e2f867 {
+  0% {
+    stroke-dashoffset: 200;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.dash-fade-in[data-v-19e2f867] {
+  opacity: 0;
+  animation: dash-fade-up-19e2f867 0.6s ease-out forwards;
+}
+.dash-delay-1[data-v-19e2f867] {
+  animation-delay: 0.1s;
+}
+.dash-delay-2[data-v-19e2f867] {
+  animation-delay: 0.25s;
+}
+.dash-delay-3[data-v-19e2f867] {
+  animation-delay: 0.4s;
+}
+.dash-delay-4[data-v-19e2f867] {
+  animation-delay: 0.55s;
+}
+.dash-delay-5[data-v-19e2f867] {
+  animation-delay: 0.7s;
+}
+.dash-delay-6[data-v-19e2f867] {
+  animation-delay: 0.85s;
+}
+.dash-ring-fill[data-v-19e2f867] {
+  animation: dash-ring-19e2f867 1.2s cubic-bezier(0.25, 0.1, 0.25, 1) 0.1s
+    forwards;
+  stroke-dasharray: 0, 100;
+}
+.dash-bar-fill[data-v-19e2f867] {
+  animation: dash-bar-dynamic-19e2f867 1s cubic-bezier(0.25, 0.1, 0.25, 1) 0.1s
+    forwards;
+  width: 0%;
+}
+.dash-sparkline[data-v-19e2f867] {
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200;
+  animation: dash-draw-19e2f867 1.5s ease-out 0.5s forwards;
+}
+.slide-content[data-v-19e2f867] {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.4s ease 0.15s, transform 0.4s ease 0.15s;
+}
+.slide-active .slide-content[data-v-19e2f867] {
+  opacity: 1;
+  transform: translateY(0);
+}
+.scrollbar-hide[data-v-19e2f867]::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide[data-v-19e2f867] {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

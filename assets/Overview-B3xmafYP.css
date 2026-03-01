@@ -1,0 +1,79 @@
+.over-card__item[data-v-27658836] {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px 2px #0000001a;
+}
+.over-card__item > div[data-v-27658836]:first-child {
+  border-radius: 20px;
+}
+.over-card__row4-mobile-bg[data-v-27658836] {
+  background-position: right center;
+}
+.over-card__title[data-v-27658836] {
+  font-family: Inter, sans-serif;
+  font-weight: 800;
+  line-height: 88%;
+  letter-spacing: -0.04em;
+}
+.over-card__text[data-v-27658836] {
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+  font-size: 0.775rem;
+  line-height: 142%;
+  letter-spacing: -0.02em;
+}
+.over-card__btn-wrap[data-v-27658836] a,
+.over-card__btn-wrap[data-v-27658836] button {
+  border-radius: 8px;
+  height: 40px;
+  min-height: 40px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 0.8125rem;
+}
+.over-card__btn-wrap[data-v-27658836] a div[class*="w-10"],
+.over-card__btn-wrap[data-v-27658836] button div[class*="w-10"] {
+  width: 1.7rem;
+  height: 1.7rem;
+  min-width: 1.7rem;
+  min-height: 1.7rem;
+  border-radius: 8px;
+}
+.over-card__row4-btn[data-v-27658836] a,
+.over-card__row4-btn[data-v-27658836] button {
+  width: 13rem !important;
+  min-height: 0;
+  height: auto;
+  padding: 8px 8px 8px 12px;
+  border-radius: 18px;
+  font-size: 16px;
+}
+.over-card__row4-btn[data-v-27658836] a div[class*="w-10"],
+.over-card__row4-btn[data-v-27658836] button div[class*="w-10"] {
+  width: 2.8rem;
+  height: 2.7rem;
+  min-width: 1.7rem;
+  min-height: 1.7rem;
+  border-radius: 10px;
+}
+@media (max-width: 767px) {
+  .over-card__row4-btn[data-v-27658836] a,
+  .over-card__row4-btn[data-v-27658836] button {
+    width: 100% !important;
+    max-width: 150px;
+    min-height: 42px;
+    height: auto;
+    padding: 6px 6px 6px 12px;
+    border-radius: 11px;
+    font-size: 10px;
+    font-weight: 400;
+  }
+  .over-card__row4-btn[data-v-27658836] a div[class*="w-10"],
+  .over-card__row4-btn[data-v-27658836] button div[class*="w-10"] {
+    width: 1.8rem;
+    height: 1.8rem;
+    min-width: 1.5rem;
+    min-height: 1.5rem;
+    border-radius: 6px;
+  }
+}

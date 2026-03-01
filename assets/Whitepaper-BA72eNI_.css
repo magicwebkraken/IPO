@@ -1,0 +1,10 @@
+.prose p[data-v-766d3e30] {
+  margin-bottom: 1rem;
+  line-height: 1.625;
+  --tw-text-opacity: 1;
+  color: rgb(55 65 81 / var(--tw-text-opacity));
+}
+.prose strong[data-v-766d3e30] {
+  --tw-text-opacity: 1;
+  color: rgb(17 24 39 / var(--tw-text-opacity));
+}

@@ -1,0 +1,17 @@
+.access[data-v-cff5fbab] {
+  color: #ff5b00;
+}
+@media (max-width: 768px) {
+  .evolution-card[data-v-cff5fbab] {
+    border-radius: 20px;
+  }
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
+* {
+  -webkit-tap-highlight-color: transparent;
+}
