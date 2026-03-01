@@ -3724,7 +3724,7 @@ const ja = H(_a, [["render", Ha]]),
               { text: "Buy Now", link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon" },
               {
                 text: "How to Buy",
-                link: "/how-it-works/",
+                link: "/how-to-buy/",
                 bgColor: "transparent",
                 arrowColor: "#000",
                 borderColor: "#fff",
@@ -3744,10 +3744,10 @@ const ja = H(_a, [["render", Ha]]),
             description:
               "Bridging the gap between traditional capital and digital innovation, we enable everyday investors to access the $3 trillion private deal economy starting from just $10.",
             buttons: [
-              { text: "Buy Now", link: "https://buy.ipogenie.ai" },
+              { text: "Buy Now", link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon" },
               {
                 text: "How to Buy",
-                link: "/how-it-works/",
+                link: "/how-to-buy/",
                 bgColor: "transparent",
                 arrowColor: "#000",
                 borderColor: "#fff",
