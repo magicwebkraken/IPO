@@ -587,7 +587,7 @@ const A = { key: 0 },
                               : d("", !0),
                             u(h, {
                               text: "Buy $IPO Now",
-                              link: "https://buy.ipogenie.ai",
+                              link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                               "bg-color": "transparent",
                               "text-color": "#000",
                               "border-color": "#000",

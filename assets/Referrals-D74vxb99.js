@@ -109,7 +109,7 @@ const y = "/assets/inspi_coin_right-D7fG3I1Y.png",
                         s("div", E, [
                           t(m, {
                             text: "Refer Now",
-                            link: "https://buy.ipogenie.ai",
+                            link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                             "open-in-new-tab": !0,
                             "arrow-color": "#FF5B00",
                             "bg-color": "#FF5B00",

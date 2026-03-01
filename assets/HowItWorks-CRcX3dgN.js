@@ -221,7 +221,7 @@ const z =
             a(k, {
               text: "Start Your Journey",
               class: "!w-full gap-5",
-              link: "https://buy.ipogenie.ai",
+              link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
             }),
           ]),
         ])

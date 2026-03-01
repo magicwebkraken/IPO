@@ -53,7 +53,7 @@ const Y = {
           a(h, {
             text: "Buy Before it's too late",
             class: "!w-max gap-5",
-            link: "https://buy.ipogenie.ai",
+            link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
           }),
         ])
       );
@@ -124,7 +124,7 @@ const Y = {
             roundImg: !0,
             title: "Connect Your Wallet",
             subtitle:
-              "Use WalletConnect to link any Web3 wallet and get ready to join the crypto presale immediately.",
+              "Use WalletConnect to link any Web3 wallet and get ready tobuy crypto  immediately.",
           },
           {
             number: Z,
@@ -145,7 +145,7 @@ const Y = {
             img: J,
             title: "Receive Your $IPO Tokens",
             subtitle:
-              "Tokens are delivered safely to your wallet after purchase or at the end of the presale.",
+              "Tokens are delivered safely to your wallet after purchase when you buy.",
           },
         ];
       return (m, d) => (
@@ -165,7 +165,7 @@ const Y = {
                     "text-center max-md:max-w-[300px] font-inter font-extrabold leading-[100%] tracking-tight",
                   style: k({ fontSize: x.value }),
                 },
-                " How to Buy Presale Tokens: Step-by-Step Guide [2026] ",
+                " How to Buy Tokens: Step-by-Step Guide [2026] ",
                 4
               ),
               e(

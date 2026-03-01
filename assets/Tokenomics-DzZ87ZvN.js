@@ -80,7 +80,7 @@ const R = "/assets/HeroBg-D_UmDwn_.webp",
                 i(H, {
                   class: "!w-max gap-3",
                   text: "Join the Presale",
-                  link: "https://buy.ipogenie.ai",
+                  link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                 }),
               ]),
             ],
