@@ -53,7 +53,7 @@ const Y = {
           a(h, {
             text: "Buy Before it's too late",
             class: "!w-max gap-5",
-            link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+            link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
           }),
         ])
       );

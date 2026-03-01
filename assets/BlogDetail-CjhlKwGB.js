@@ -96,7 +96,7 @@ const le = {
             subtext:
               "Join 10,000+ investors getting early access to the next SpaceX and Stripe.",
             buttonText: "Join the Presale",
-            link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+            link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
             icon: "rocket",
           },
           newsletter: {
@@ -449,7 +449,7 @@ const le = {
                 .replace(/href="\/whitepaper"(?!\/)"/g, 'href="/whitepaper/"')
                 .replace(
                   /href="https?:\/\/buy\.ipogenie\.ai\/?"/g,
-                  'href="app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon" target="_blank" rel="noopener noreferrer"'
+                  'href="https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon" target="_blank" rel="noopener noreferrer"'
                 )
                 .replace(/<img(?![^>]*alt=)/g, '<img alt="Blog illustration"')
                 .replace(/<img(?![^>]*loading=)/g, '<img loading="lazy"')
@@ -660,7 +660,7 @@ const le = {
                     y(j, {
                       text: "Join Presale",
                       class: "!w-max",
-                      link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                      link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                     }),
                   ]),
                   y(

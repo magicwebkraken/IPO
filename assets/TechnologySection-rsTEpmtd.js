@@ -76,7 +76,7 @@ const C = {
             }),
             p(x, {
               text: "Buy Now",
-              link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+              link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
               "bg-color": "#16151A",
               "arrow-color": "#000",
               "bg-arrow": "#fff",

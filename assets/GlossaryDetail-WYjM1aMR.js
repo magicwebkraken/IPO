@@ -644,7 +644,7 @@ const Z = { class: "min-h-screen bg-white text-black pt-32 pb-20" },
                       x(N, {
                         text: "Join Presale",
                         class: "!w-max",
-                        link: "app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+                        link: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                       }),
                     ]),
                   ]))
