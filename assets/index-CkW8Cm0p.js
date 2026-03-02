@@ -1899,7 +1899,7 @@ const nn = { class: "px-5 pb-8 mt-[85px] max-lg:mt-16 max-md:mt-10" },
               { link: "Twitter", href: "https://x.com/IPOGENIECoin" },
               { link: "Uniswap", href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xa6206ceB99A811246beBae71E1f8F49BaFAC7108" },
               { link: "Dexscreener", href: "https://dexscreener.com/ethereum/0xa6206ceB99A811246beBae71E1f8F49BaFAC7108" },
-              { link: "Dextools", href: "https://dextools.io/app/ether/pair-explorer/0xDexComingSoon" }
+              { link: "Dextools", href: "https://www.dextools.io/app/token/ipogenieai" }
             ],
           },
         ],
